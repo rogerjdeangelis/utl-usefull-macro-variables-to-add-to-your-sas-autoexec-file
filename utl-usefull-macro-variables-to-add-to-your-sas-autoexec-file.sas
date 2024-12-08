@@ -16,6 +16,10 @@ Useefull for code generation of formats.
 
 %stop_submission;
 
+github
+https://tinyurl.com/m79xszp8
+https://github.com/rogerjdeangelis/utl-usefull-macro-variables-to-add-to-your-sas-autoexec-file
+
 /*---- LETTERS ----*/
 
 %let lettersq=
