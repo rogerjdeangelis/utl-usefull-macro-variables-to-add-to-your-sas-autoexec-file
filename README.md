@@ -13,9 +13,13 @@ Usefull macro variables to add to your sas autoexec file
               5 days  (quoted, unquoted)
 
     Perhaps these automatic macro variables are usefull for code development.
-    Note you can access directly oy paste the long strings into your code.
+    Note you can access directly oy paste the long strings into your code. 
     Useefull for code generation of formats.
-
+    
+    github
+    https://tinyurl.com/m79xszp8
+    https://github.com/rogerjdeangelis/utl-usefull-macro-variables-to-add-to-your-sas-autoexec-file
+    
     %stop_submission;
 
     /*---- LETTERS ----*/
